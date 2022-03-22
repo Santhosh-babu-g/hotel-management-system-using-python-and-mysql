@@ -7,9 +7,7 @@ _I have created hotel management system using tkinter and sqllite3 modules in py
     3. fpdf
     4. mysql-connector
     5. tkcalendar
-### next, download this folder:
-    [hotel project.zip](https://github.com/Santhosh-babu-g/hotel-management-system-using-python-and-mysql/files/8325336/hotel.project.zip)
-
+### next, download the hotel project.zip file.
 ### now, create a account in https://www.twilio.com website by signing up.
 ### next, setup your account by answering to the following question with specified answers:
     Q 1. Which twilio product are you here to use?
